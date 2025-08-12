@@ -38,7 +38,7 @@ This notebook clusters baseball players based on their **stance** and **swing me
    * Simple interactive heatmaps that display players' names based on their classified swing/stance cluster and performance tier
    * Simple Success/Fail Rate tables to quickly assess the effectiveness of specific swing/stance archetypes
 
-5. **Analysis on SPecific Pitch Types**
+5. **Analysis on Specific Pitch Types**
 
    * Using the individual player data on specific pitch types, created `combined_arsenal_df` to assess how specific swing archetypes perform against each pitch
    * `Archetype Strength Analyzer`, `Vulerability Matricies`, `Performance Tier Analysis`, `Archetype Attack Recommenation` Tables to asess the swing clusters from every point of view
